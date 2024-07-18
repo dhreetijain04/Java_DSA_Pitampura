@@ -8,7 +8,7 @@ public class Q4 {
                 System.out.print("  ");
                   for(int j=1;j<=i;j++)
                      System.out.print("* ");
-         System.err.println();            
+         System.out.println();            
         }
     }
 }
