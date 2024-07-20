@@ -40,12 +40,11 @@ public class functions {
                 static boolean checkArm(int n){
                     int d=countD(n);
                     int sum=0;
-                    int temp=n;
                     while(n!=0){
                         sum+=Math.pow((n%10), d);
                         n/=10;
                     }
-                    return (sum==temp);
+                    return (sum==n);
                 }               
     public static void main(String[] args) {
        // numbers(5);
