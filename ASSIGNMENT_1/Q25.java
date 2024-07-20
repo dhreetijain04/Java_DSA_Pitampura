@@ -11,7 +11,7 @@ public class Q25 {
         for(int j=1;j<=i;j++){
           System.out.print(p++ + "  ");
         }
-        for(int j=1;j<=i-1;j++){
+        for(int j=2;j<=i;j++){
           System.out.print(p++ +"  ");
         }
        System.out.println();
