@@ -19,7 +19,7 @@ public class stringsc {
     // s1+="s";
     // String s3=new String(s2);
     // String s4=new String("table");
-    // System.out.println(s1.substring(3));
+     //System.out.println(s1.substring(3));
     // System.out.println(s1.substring(1,5));
 
     // String s1="Racecar";
@@ -65,8 +65,8 @@ public class stringsc {
     //  System.out.println(s5);
     // System.out.println(s6);
 
-    String s1="\"hello\"";
-    System.out.println(s1);
+    //String s1="\"hello\"";
+   // System.out.println(s1);
     
 }
 }
