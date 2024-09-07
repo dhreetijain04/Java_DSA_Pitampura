@@ -14,13 +14,13 @@ public class stringsc {
     // System.out.print(s4);
     // System.out.print(s5);
 
-    // String s1="table";
+    String s1="tablesable";
     // String s2="tables";
     // s1+="s";
     // String s3=new String(s2);
     // String s4=new String("table");
-     //System.out.println(s1.substring(3));
-    // System.out.println(s1.substring(1,5));
+     System.out.println(s1.substring(3));
+    System.out.println(s1.substring(1,5));
 
     // String s1="Racecar";
     // String s2="Racecar";

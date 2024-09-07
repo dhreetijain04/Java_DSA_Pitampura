@@ -13,7 +13,7 @@ public class s_builder {
         // sb.delete(2,5);                //end:upperbound
         // sb.reverse();       
         // sb.ensureCapacity(100);
-        sb.replace(2,4,"wow");      //* */
+        // sb.replace(2,4,"wow");      //* */
         
 
         System.out.println(sb);
