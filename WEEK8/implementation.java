@@ -17,8 +17,8 @@ public class implementation {
         String s2=new String("hi");
         System.out.println(s1==s2);
 
-        int a=5;
-        Integer a1=a;     //autoboxing
+        //int a=5;
+        //Integer a1=a;     //autoboxing
         
     }
 }
