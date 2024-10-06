@@ -9,7 +9,6 @@ public class bsinsearchspace {
         else return false;
         }
     
-    
   static int reachcentre(int dist,int time){
     int lowspeed=0;
     int highspeed=200;

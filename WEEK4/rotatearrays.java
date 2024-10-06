@@ -44,6 +44,6 @@ public class rotatearrays {
             nums[i]=nums[i-1];
 
         }
-nums[0]=temp;
-}
+        nums[0]=temp;
+    }
 }
