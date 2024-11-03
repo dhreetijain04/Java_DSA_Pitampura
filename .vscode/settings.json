@@ -1,0 +1,16 @@
+{
+    "java.project.explorer.showNonJavaResources": true,
+    "java.dependency.packagePresentation": "flat",
+    "json.schemas": [
+        {
+            "java.configuration.runtimes": [
+              {
+                "name": "JavaSE-21",
+                "path": "C:\\Program Files\\Java\\jdk-21",
+                "default": true
+              }
+            ],
+            "java.home": "C:\\Program Files\\Java\\jdk-21"
+          }
+    ]
+}
